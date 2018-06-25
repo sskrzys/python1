@@ -1,12 +1,15 @@
-hours = input('Enter hours: ')
-rate = input('Enter rate: ')
+score = input('Enter score: ')
 try:
-    hours = float(hours)
-    rate = float(rate)
-    if hours > 40:
-        pay = (40 * rate) + ((hours - 40) * rate * 1.5)
+    score = float(score)
+    if score > 0.9:
+        print('A')
+    elif score > 0.8:
+        print('B')
+    elif score > 0.7:
+        print('C')
+    elif score > 0.6:
+        print('D')
     else:
-        pay = hours * rate
-    print('Pay:',pay)
+        print('F')
 except:
-    print('Please enter numbers')
+    print('Bad score')
