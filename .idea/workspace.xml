@@ -1,31 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f4de350a-7c67-4363-be43-52ed630fa12d" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/ex8-1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex8-4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex8-5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex8-6.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/python1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex3-1.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex3-1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex3-2.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex3-2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex3-3.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex3-3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex4-1.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex4-1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex4-2.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex4-2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex4-6.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex4-6.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex4-7.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex4-7.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex5-1.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex5-1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex5-2.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex5-2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex6-1.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex6-1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex6-3.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex6-3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex6-4.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex6-4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex6-5.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex6-5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex7-1.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex7-1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex7-2.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex7-2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex7-3.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex7-3.py" afterDir="false" />
-    </list>
+    <list default="true" id="f4de350a-7c67-4363-be43-52ed630fa12d" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -66,7 +42,7 @@
         <entry file="file://$PROJECT_DIR$/ex8-4.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
-              <caret line="8" column="13" lean-forward="true" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -204,13 +180,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="26" width="1366" height="742" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.39970717" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Python Console" order="7" weight="0.27230048" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3286385" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3286385" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -516,7 +493,7 @@
     <entry file="file://$PROJECT_DIR$/ex8-4.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
-          <caret line="8" column="13" lean-forward="true" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
         </state>
       </provider>
     </entry>
