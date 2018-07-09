@@ -3,7 +3,7 @@ def wytnij():
     for line in fhand:
         line.strip()
         for letter in line:
-            if ord(letter) > 96 and ord(letter) < 123:
+            if ord(letter) in range(96, 123):
                 print(letter)
             else:
                 continue

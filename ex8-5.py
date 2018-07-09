@@ -7,4 +7,4 @@ for line in fhand:
     if buf[0] == 'From':
         print(buf[1])
         counter += 1
-print('There are --', counter, '-- froms')
+print('There are -- %d %s %s -- froms' % (counter, counter, counter))
