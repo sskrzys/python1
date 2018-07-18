@@ -1,4 +1,4 @@
-fhand = open('pythonforinformatics/mbox.txt')
+fhand = open('../mbox.txt')
 days = dict()
 for line in fhand:
     buf = line.split()
