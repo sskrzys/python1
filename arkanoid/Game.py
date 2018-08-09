@@ -88,7 +88,7 @@ class Game:
         while True:
             self.input(pygame.event.get())
             self.game_graphics()
-            
+
 
 game = Game(window)
 game.play()
