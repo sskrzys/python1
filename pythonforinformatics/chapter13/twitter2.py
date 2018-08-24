@@ -29,12 +29,12 @@ while True:
     headers = dict(connection.getheaders())
     print('Remaining', headers['x-rate-limit-remaining'])
 
-    for u in js['users']:
-        print(u['screen_name'])
-        if 'status' not in u:
-            print('   * No status found')
-            continue
-        s = u['status']['text']
-        print('  ', s[:50])
+    for u in js['users']['entities']:
+        print(u['entities'])
+        # if 'status' not in u:
+        #     print('   * No status found')
+        #     continue
+        # s = u['status']['text']
+        # print('  ', s[:50])
 
 # Code: http://www.py4e.com/code3/twitter2.py
