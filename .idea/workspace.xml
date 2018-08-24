@@ -2,15 +2,33 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f4de350a-7c67-4363-be43-52ed630fa12d" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objectos/sup2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythonforinformatics/ex12-1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythonforinformatics/ex12-2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythonforinformatics/ex12-3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythonforinformatics/ex12-4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythonforinformatics/ex12-5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonforinformatics/CricketFan.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonforinformatics/PartyAnimal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonforinformatics/chapter13/hidden.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonforinformatics/chapter13/oauth.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonforinformatics/chapter13/twitter1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonforinformatics/chapter13/twitter2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonforinformatics/chapter13/twurl.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonforinformatics/chapter13/urllinks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonforinformatics/chapter15/db1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonforinformatics/chapter15/db2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonforinformatics/chapter15/friends.sqlite" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonforinformatics/chapter15/hidden.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonforinformatics/chapter15/music.sqlite" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonforinformatics/chapter15/oauth.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonforinformatics/chapter15/spider.sqlite" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonforinformatics/chapter15/twdump.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonforinformatics/chapter15/twfriends.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonforinformatics/chapter15/twitter1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonforinformatics/chapter15/twitter2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonforinformatics/chapter15/twjoin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonforinformatics/chapter15/twspider.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonforinformatics/chapter15/twurl.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonforinformatics/chapter15/urllinks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium1/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium1/selenium1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium1/selenium2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/arkanoid/Game.py" beforeDir="false" afterPath="$PROJECT_DIR$/arkanoid/Game.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pythonforinformatics/temp.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonforinformatics/temp.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,26 +40,110 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Game.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/arkanoid/Game.py">
+      <file leaf-file-name="twitter1.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pythonforinformatics/chapter13/twitter1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1104">
-              <caret line="70" column="28" selection-start-line="70" selection-start-column="28" selection-end-line="70" selection-end-column="28" />
+            <state relative-caret-position="240">
+              <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
               <folding>
-                <element signature="e#0#22#0" expanded="true" />
+                <element signature="e#0#49#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="temp.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pythonforinformatics/temp.py">
+      <file leaf-file-name="twitter2.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pythonforinformatics/chapter13/twitter2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="37" column="44" selection-start-line="37" selection-start-column="44" selection-end-line="37" selection-end-column="44" />
+            <state relative-caret-position="576">
+              <caret line="39" column="45" selection-start-line="39" selection-start-column="45" selection-end-line="39" selection-end-column="45" />
               <folding>
                 <element signature="e#0#49#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="hidden.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pythonforinformatics/chapter15/hidden.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="11" column="43" selection-start-line="11" selection-start-column="43" selection-end-line="11" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="twdump.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pythonforinformatics/chapter15/twdump.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="192">
+              <caret line="12" column="43" selection-start-line="12" selection-start-column="43" selection-end-line="12" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="twfriends.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pythonforinformatics/chapter15/twfriends.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1552">
+              <caret line="101" column="46" selection-start-line="101" selection-start-column="46" selection-end-line="101" selection-end-column="46" />
+              <folding>
+                <element signature="e#0#49#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="twjoin.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pythonforinformatics/chapter15/twjoin.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="528">
+              <caret line="33" column="43" selection-start-line="33" selection-start-column="43" selection-end-line="33" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="selenium1.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/selenium1/selenium1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="32">
+              <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+              <folding>
+                <element signature="e#0#30#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="selenium2.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/selenium1/selenium2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="448">
+              <caret line="28" column="1" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
+              <folding>
+                <element signature="e#0#30#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="oauth.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pythonforinformatics/chapter13/oauth.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="9664">
+              <caret line="609" column="18" selection-start-line="609" selection-start-column="18" selection-end-line="609" selection-end-column="18" />
+              <folding>
+                <element signature="e#1081#1091#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="hidden.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pythonforinformatics/chapter13/hidden.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="9" column="74" selection-start-line="9" selection-start-column="74" selection-end-line="9" selection-end-column="74" />
             </state>
           </provider>
         </entry>
@@ -66,16 +168,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/ex2-2.py" />
-        <option value="$PROJECT_DIR$/ex2-3.py" />
-        <option value="$PROJECT_DIR$/ex2-4.py" />
-        <option value="$PROJECT_DIR$/ex2-5.py" />
-        <option value="$PROJECT_DIR$/ex3-1.py" />
-        <option value="$PROJECT_DIR$/ex3-2.py" />
-        <option value="$PROJECT_DIR$/ex3-3.py" />
-        <option value="$PROJECT_DIR$/ex4-1.py" />
-        <option value="$PROJECT_DIR$/ex4-2.py" />
-        <option value="$PROJECT_DIR$/4-6.py" />
         <option value="$PROJECT_DIR$/ex4-6.py" />
         <option value="$PROJECT_DIR$/ex4.7.py" />
         <option value="$PROJECT_DIR$/ex4-7.py" />
@@ -100,7 +192,6 @@
         <option value="$PROJECT_DIR$/pythonforinformatics/ex10-2.py" />
         <option value="$PROJECT_DIR$/pythonforinformatics/ex10-3.py" />
         <option value="$PROJECT_DIR$/objectos/sup.py" />
-        <option value="$PROJECT_DIR$/arkanoid/Game.py" />
         <option value="$PROJECT_DIR$/objectos/sup2.py" />
         <option value="$PROJECT_DIR$/pythonforinformatics/12-1.py" />
         <option value="$PROJECT_DIR$/pythonforinformatics/ex12-1.py" />
@@ -108,14 +199,33 @@
         <option value="$PROJECT_DIR$/pythonforinformatics/ex12-3.py" />
         <option value="$PROJECT_DIR$/pythonforinformatics/ex12-4.py" />
         <option value="$PROJECT_DIR$/pythonforinformatics/ex12-5.py" />
+        <option value="$PROJECT_DIR$/arkanoid/Game.py" />
         <option value="$PROJECT_DIR$/pythonforinformatics/temp.py" />
+        <option value="$PROJECT_DIR$/pythonforinformatics/PartyAnimal.py" />
+        <option value="$PROJECT_DIR$/pythonforinformatics/CricketFan.py" />
+        <option value="$PROJECT_DIR$/pythonforinformatics/chapter15/db1.py" />
+        <option value="$PROJECT_DIR$/pythonforinformatics/chapter15/db2.py" />
+        <option value="$PROJECT_DIR$/pythonforinformatics/chapter15/twurl.py" />
+        <option value="$PROJECT_DIR$/pythonforinformatics/chapter15/twspider.py" />
+        <option value="$PROJECT_DIR$/pythonforinformatics/chapter12things/urllinks.py" />
+        <option value="$PROJECT_DIR$/pythonforinformatics/chapter15/hidden.py" />
+        <option value="$PROJECT_DIR$/pythonforinformatics/chapter13/oauth.py" />
+        <option value="$PROJECT_DIR$/pythonforinformatics/chapter13/hidden.py" />
+        <option value="$PROJECT_DIR$/pythonforinformatics/chapter13/twitter1.py" />
+        <option value="$PROJECT_DIR$/pythonforinformatics/chapter13/twurl.py" />
+        <option value="$PROJECT_DIR$/pythonforinformatics/chapter13/twitter2.py" />
+        <option value="$PROJECT_DIR$/pythonforinformatics/chapter15/twdump.py" />
+        <option value="$PROJECT_DIR$/pythonforinformatics/chapter15/twfriends.py" />
+        <option value="$PROJECT_DIR$/pythonforinformatics/chapter15/twjoin.py" />
+        <option value="$PROJECT_DIR$/selenium1/selenium1.py" />
+        <option value="$PROJECT_DIR$/selenium1/selenium2.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-1930" />
-    <option name="y" value="-6" />
-    <option name="width" value="1939" />
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1938" />
     <option name="height" value="1060" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -137,23 +247,7 @@
             <path>
               <item name="python1" type="b2602c69:ProjectViewProjectNode" />
               <item name="python1" type="462c0819:PsiDirectoryNode" />
-              <item name="arkanoid" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python1" type="462c0819:PsiDirectoryNode" />
-              <item name="arkanoid" type="462c0819:PsiDirectoryNode" />
-              <item name="venv" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python1" type="462c0819:PsiDirectoryNode" />
-              <item name="objectos" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python1" type="462c0819:PsiDirectoryNode" />
-              <item name="pythonforinformatics" type="462c0819:PsiDirectoryNode" />
+              <item name="selenium1" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -163,14 +257,17 @@
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../appsec-browser-tests" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.project" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\kwnuk\PycharmProjects\python1\selenium1" />
       <recent name="C:\Users\kwnuk\PycharmProjects\python1\pythonforinformatics" />
       <recent name="$PROJECT_DIR$" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\kwnuk\PycharmProjects\python1\pythonforinformatics\chapter15" />
+      <recent name="C:\Users\kwnuk\PycharmProjects\python1\pythonforinformatics\chapter13" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/venv" />
       <recent name="C:\Users\Andromeda\PycharmProjects\git\python1" />
@@ -188,7 +285,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.temp">
+  <component name="RunManager" selected="Python.selenium2">
     <configuration name="eldo" type="PythonConfigurationType" factoryName="Python">
       <module name="python1" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -207,7 +304,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="ex12-2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="selenium1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -215,17 +312,17 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonforinformatics" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/selenium1" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonforinformatics/ex12-2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/selenium1/selenium1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="ex12-3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="selenium2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -233,17 +330,17 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonforinformatics" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/selenium1" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonforinformatics/ex12-3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/selenium1/selenium2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="ex12-4" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="twdump" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -251,17 +348,17 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonforinformatics" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonforinformatics/chapter15" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonforinformatics/ex12-4.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonforinformatics/chapter15/twdump.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="ex12-5" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="twfriends" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -269,17 +366,17 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonforinformatics" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonforinformatics/chapter15" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonforinformatics/ex12-5.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonforinformatics/chapter15/twfriends.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="temp" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="twjoin" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -287,11 +384,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonforinformatics" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonforinformatics/chapter15" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonforinformatics/temp.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonforinformatics/chapter15/twjoin.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -299,19 +396,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.eldo" />
-      <item itemvalue="Python.ex12-2" />
-      <item itemvalue="Python.ex12-3" />
-      <item itemvalue="Python.ex12-4" />
-      <item itemvalue="Python.ex12-5" />
-      <item itemvalue="Python.temp" />
+      <item itemvalue="Python.twdump" />
+      <item itemvalue="Python.twfriends" />
+      <item itemvalue="Python.twjoin" />
+      <item itemvalue="Python.selenium1" />
+      <item itemvalue="Python.selenium2" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.temp" />
-        <item itemvalue="Python.ex12-5" />
-        <item itemvalue="Python.ex12-4" />
-        <item itemvalue="Python.ex12-3" />
-        <item itemvalue="Python.ex12-2" />
+        <item itemvalue="Python.selenium2" />
+        <item itemvalue="Python.selenium1" />
+        <item itemvalue="Python.twjoin" />
+        <item itemvalue="Python.twfriends" />
+        <item itemvalue="Python.twdump" />
       </list>
     </recent_temporary>
   </component>
@@ -329,15 +426,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1927" y="-3" width="1550" height="848" extended-state="6" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23066755" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23066755" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Event Log" order="10" sideWeight="0.50033045" side_tool="true" visible="true" weight="0.3286517" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5009914" side_tool="true" weight="0.33146068" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Python Console" order="7" weight="0.27230048" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49966952" weight="0.33146068" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4990086" weight="0.33146068" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -360,24 +456,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ex2-5.py" />
-    <entry file="file://$PROJECT_DIR$/ex2-2.py" />
-    <entry file="file://$PROJECT_DIR$/ex2-3.py" />
-    <entry file="file://$PROJECT_DIR$/ex3-1.py" />
-    <entry file="file://$PROJECT_DIR$/ex3-2.py" />
-    <entry file="file://$PROJECT_DIR$/ex3-3.py" />
-    <entry file="file://$PROJECT_DIR$/ex4.7.py" />
-    <entry file="file://$PROJECT_DIR$/ex4-2.py" />
-    <entry file="file://$PROJECT_DIR$/ex4-1.py" />
-    <entry file="file://$PROJECT_DIR$/ex4-6.py" />
-    <entry file="file://$PROJECT_DIR$/ex4-7.py" />
-    <entry file="file://$PROJECT_DIR$/ex5-1.py" />
-    <entry file="file://$PROJECT_DIR$/ex8-1.py" />
-    <entry file="file://$PROJECT_DIR$/mbox.txt" />
-    <entry file="file://$PROJECT_DIR$/ex8-4.py" />
-    <entry file="file://$PROJECT_DIR$/ex8-5.py" />
-    <entry file="file://$PROJECT_DIR$/ex7-3.py" />
-    <entry file="file://$PROJECT_DIR$/ex7-2.py" />
     <entry file="file://$PROJECT_DIR$/ex7-1.py" />
     <entry file="file://$PROJECT_DIR$/ex6-5.py" />
     <entry file="file://$PROJECT_DIR$/ex6-4.py" />
@@ -468,16 +546,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/arkanoid/Game.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1104">
-          <caret line="70" column="28" selection-start-line="70" selection-start-column="28" selection-end-line="70" selection-end-column="28" />
-          <folding>
-            <element signature="e#0#22#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pythonforinformatics/ex11-2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -492,47 +560,195 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/pythonforinformatics/ex12-5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="15" column="44" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonforinformatics/ex12-1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="17" column="14" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pythonforinformatics/ex12-2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
+        <state relative-caret-position="336">
           <caret line="22" selection-start-line="22" selection-end-line="24" selection-end-column="34" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pythonforinformatics/ex12-3.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
+        <state relative-caret-position="192">
           <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pythonforinformatics/ex12-4.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="316">
-          <caret line="22" column="22" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
+        <state relative-caret-position="128">
+          <caret line="8" selection-start-line="8" selection-end-line="8" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pythonforinformatics/ex12-5.py">
+    <entry file="file://$PROJECT_DIR$/arkanoid/Game.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="15" column="38" lean-forward="true" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pythonforinformatics/ex12-1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="17" column="14" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
+        <state relative-caret-position="1472">
+          <caret line="93" column="10" selection-start-line="93" selection-start-column="10" selection-end-line="93" selection-end-column="10" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pythonforinformatics/temp.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="37" column="44" selection-start-line="37" selection-start-column="44" selection-end-line="37" selection-end-column="44" />
+        <state relative-caret-position="192">
+          <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonforinformatics/PartyAnimal.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonforinformatics/CricketFan.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonforinformatics/chapter15/db1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="10" column="40" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonforinformatics/chapter15/db2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="16" column="49" selection-start-line="16" selection-start-column="49" selection-end-line="16" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonforinformatics/chapter15/twurl.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonforinformatics/chapter15/twspider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="29" column="58" selection-start-line="29" selection-start-column="58" selection-end-line="29" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonforinformatics/chapter13/urllinks.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="25" column="45" selection-start-line="25" selection-start-column="45" selection-end-line="25" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonforinformatics/chapter13/twurl.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="9" selection-start-line="32" selection-start-column="9" selection-end-line="32" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonforinformatics/chapter13/hidden.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="9" column="74" selection-start-line="9" selection-start-column="74" selection-end-line="9" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonforinformatics/chapter13/oauth.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9664">
+          <caret line="609" column="18" selection-start-line="609" selection-start-column="18" selection-end-line="609" selection-end-column="18" />
+          <folding>
+            <element signature="e#1081#1091#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonforinformatics/chapter13/twitter1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
           <folding>
             <element signature="e#0#49#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonforinformatics/chapter13/twitter2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="39" column="45" selection-start-line="39" selection-start-column="45" selection-end-line="39" selection-end-column="45" />
+          <folding>
+            <element signature="e#0#49#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonforinformatics/chapter15/hidden.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="11" column="43" selection-start-line="11" selection-start-column="43" selection-end-line="11" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonforinformatics/chapter15/twdump.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="12" column="43" selection-start-line="12" selection-start-column="43" selection-end-line="12" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonforinformatics/chapter15/twfriends.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1552">
+          <caret line="101" column="46" selection-start-line="101" selection-start-column="46" selection-end-line="101" selection-end-column="46" />
+          <folding>
+            <element signature="e#0#49#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonforinformatics/chapter15/twjoin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="33" column="43" selection-start-line="33" selection-start-column="43" selection-end-line="33" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/selenium1/selenium1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/selenium1/selenium2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="28" column="1" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
           </folding>
         </state>
       </provider>
